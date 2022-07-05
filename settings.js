@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
+global.owner = ['94761527024']
+global.premium = ['94761527024']
+global.ownernomer = '94761527024'
 global.ownername = 'νιнαηgα м∂🧚'
 global.botname = 'νιнαηgα м∂🧚'
 global.footer = 'νιнαηgα м∂🧚'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
+global.ig = 'https://youtube.com/channel/UCgUPf1cA3yany_9_YPBpvvg'
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.sc = 'https://youtube.com/channel/UCgUPf1cA3yany_9_YPBpvvg'
+global.myweb = 'https://youtube.com/channel/UCgUPf1cA3yany_9_YPBpvvg'
 global.packname = 'νιнαηgα м∂🧚]'
-global.author = 'νιнαηgα м∂🧚'
+global.author = 'M.praharsha🧚'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
 global.sp = '⭔'
@@ -35,7 +35,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'කරුණාකර මොහොතක් රැදීසිටින්න....',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
